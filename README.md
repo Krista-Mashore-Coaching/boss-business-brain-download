@@ -1,8 +1,8 @@
-# BOSS AI Business Brain — Free Download
+# BOSS AI Business Brain - Free Download
 
 This is the download home for the free **BOSS AI Business Brain**, the Phase 1 zip that teaches any AI who you are, how you talk, who you serve, and what makes you different. It is free. The paid BOSS Operating System (the full "100 employees" build) is a separate product and is not what this repo distributes.
 
-This repo holds only the release asset. There is no source code here to browse — the zip is attached to the [latest release](../../releases/latest).
+This repo holds only the release asset. There is no source code here to browse. The zip is attached to the [latest release](../../releases/latest).
 
 ## How to use it
 
