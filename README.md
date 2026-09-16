@@ -6,10 +6,10 @@ This repo holds only the release asset. There is no source code here to browse. 
 
 ## How to use it
 
-Open the Claude app on the computer you will actually use (not claude.ai in a browser), click **Code**, start a new session, and paste this line exactly:
+Open Claude Desktop on the computer you will actually use (not claude.ai in a browser), click **Code**, start a new session, and paste this line exactly:
 
 ```
-Set up my BOSS Business Brain. Download https://github.com/Krista-Mashore-Coaching/boss-business-brain-download/releases/latest/download/BOSS-AI-Business-Brain.zip into a new folder called BOSS-Business-Brain inside my Sites folder (create Sites in my home folder if it does not exist), unzip it there, delete the zip, then tell me exactly how to open that folder as my new session and say hi. Do not ask me any questions until it is unzipped.
+Set up my BOSS Business Brain. Download https://github.com/Krista-Mashore-Coaching/boss-business-brain-download/releases/latest/download/BOSS-AI-Business-Brain.zip and unzip it so that the file START-HERE.md sits directly inside a folder named BOSS-AI-Business-Brain in my Sites folder (create Sites in my home folder if it does not exist, and do not leave an extra folder in between). Delete the zip, then tell me exactly how to open that folder as my new session and say hi. Do not ask me any questions until it is unzipped.
 ```
 
 That's it. Claude downloads the zip, unzips it, and tells you the next step. You don't need to know what GitHub is or click anything on this page.
